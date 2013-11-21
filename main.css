@@ -1,0 +1,11 @@
+body {
+	background-image: url('images/calvin_hobbes_snow.jpg');
+	background-position: center;
+    background-size: cover;}
+
+#signup {
+	background-position: center;
+	text-align: center;
+	max-width: 550px;
+	margin: 220px auto auto auto;
+}
