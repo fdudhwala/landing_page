@@ -5,4 +5,12 @@ h1 {
 	color: white;
 	background: cover;
 	background-color: black;
+	margin: 0px;
+	padding: 0px;
+}
+.signupform {
+background-position: center;
+text-align: center;
+max-width: 550px;
+margin: 100px auto auto auto;
 }
